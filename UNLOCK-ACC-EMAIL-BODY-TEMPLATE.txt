@@ -1,0 +1,18 @@
+Hi {FNAME} {LNAME},
+<br/>
+
+Welcome to User Management App, Your Registration is almost completed.
+Please user below details to unlock your account <br/>
+<br/>
+
+Temporary Password : {TEMP-PWD}<br/>
+<br/>
+
+<a href="http://localhost:4200/unlockAcc?email={EMAIL}">
+Click Here To Unlock Your Account 
+</a>
+<br/>
+<br/>
+
+Thanks & Regards,<br/>
+User Management App. <br/>
